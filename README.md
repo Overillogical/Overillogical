@@ -1,3 +1,3 @@
 # Overillogical
-[!(https://www.codewars.com/users/Overillogical/badges/micro)]
+![[Codewars]](https://www.codewars.com/users/Overillogical/badges/micro)
 
